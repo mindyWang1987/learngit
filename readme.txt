@@ -1,2 +1,2 @@
 git is a version control system
-add dev branch
+create a new branch is quick feature1 branch
