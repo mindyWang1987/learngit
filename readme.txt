@@ -1,2 +1,2 @@
 git is a version control system
-master branch 
+create a new branch is quick branch
