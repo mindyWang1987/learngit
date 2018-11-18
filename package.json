@@ -1,0 +1,26 @@
+{
+  "name": "lockesedemo",
+  "version": "1.0.0",
+  "description": "test node is and npm",
+  "main": "test.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindyWang1987/demo.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mindy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindyWang1987/demo/issues"
+  },
+  "homepage": "https://github.com/mindyWang1987/demo#readme"
+}
